@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615761529364",
+    "project_id": "todolist-beec4",
+    "storage_bucket": "todolist-beec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615761529364:android:e55867ccdeea321dd33501",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcaIjxT6Ft_iLWubWkRZ_OMFp9zZPI07U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

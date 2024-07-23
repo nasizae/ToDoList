@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ToDoList</string>
+    <string name="welcome">Welcome to our application, here you can write down your tasks so as not to forget</string>
+    <string name="let_s_go_start">Let`s go Start</string>
+    <string name="authentication">Authentication</string>
+    <string name="registration">Registration</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="facebook">FaceBook</string>
+    <string name="google">Google</string>
+    <string name="or">OR</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="fullname">fullName</string>
 </resources>
